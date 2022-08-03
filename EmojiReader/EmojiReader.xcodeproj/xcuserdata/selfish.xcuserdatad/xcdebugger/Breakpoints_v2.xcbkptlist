@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D8141CCE-5B96-4D9B-AD70-0DF15F7791EE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiReader/NewEmojiTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "NewEmojiTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - dc9079913cd350d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.getter : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - 906a233075a72919"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.setter : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - 74197e475cf7a03b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.modify : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - fc8a8d2b37192f11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.modify : Swift.Optional&lt;__C.UIBarButtonItem&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - 8bec674be5cd0d73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(style: __C.UITableViewStyle) -&gt; EmojiReader.NewEmojiTableViewController"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - f84278c6fe2d598d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EmojiReader.NewEmojiTableViewController"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "9F453302-C81C-4548-9BE9-2CCD59E3A7A3 - 8f27aead6f868183"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EmojiReader.NewEmojiTableViewController&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selfish/Desktop/Selfish/TaskSwift/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_2/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
